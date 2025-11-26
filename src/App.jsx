@@ -1,8 +1,71 @@
 import React, { Component } from 'react'
-import { useState } from 'react'
 
 
 
+
+
+// import ArrayExample from "./03array";
+
+// function App() {
+  
+//   return (
+//     <div className="p-5">
+
+
+
+
+//       <ArrayExample />
+//     </div>
+//   );
+// }
+
+// export default App;
+
+
+
+
+
+
+
+
+
+
+// import { useState } from 'react'
+
+
+
+
+// import Timeoutex from './02timer'
+
+// function App  () {
+//   return (
+//     <div>
+//       <Timeoutex/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+
+
+
+
+
+
+
+// //                     01readchar.jsx
+
+
+// import TextCheck from './01readchar'
+// function App(){
+//   return(
+//     <div>
+//       <TextCheck/>
+//     </div>
+//   )
+// }
+// export default App;
 
 
 
